@@ -16,8 +16,7 @@
 [2-3 lines about what your project does]
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
-
+The hectic lifestyle of an average human and the level of stress can never be compensated with. That can be turned into an endless pit of anxiety. A game of control where you have absolutely no control and where you come have a relaxed time after a long day, so that you eventually fall into the pit of anxiety and get disturbed at the peak level.
 ### The Solution (that nobody asked for)
 [How are you solving it? Keep it fun!]
 
