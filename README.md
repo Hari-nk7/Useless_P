@@ -22,23 +22,23 @@ The solution to the problem is not what we are providing but infact its the oppo
 ### Technologies/Components Used
 For Software:
 - HTML, CSS, JS
+- Unity
 - G develop
 
 ### Implementation
-For Software:
 # Installation
 There is no need for installations as this is a online web game.
 # Run
-We need Gdevelop application to run the program (the Link to the project has already been given in).
+We need Gdevelop application to run the program (We have already hosted the project online, and the the link to the same has been provided).
 ### Project Documentation
 For Software:
 
-# Screenshots (Add at least 3)
+# Screenshots 
 <img width="1263" alt="menu_page" src="https://github.com/user-attachments/assets/a858354c-5dbc-493d-86d7-7c64938bec5e">
-This is the Menu Page consisting three games, where the player end up on either not completing the game or even if the player completes it via any loopholes, it will still  it remains useless as there is no reward.
+This is the Menu Page consisting three games, where the player end up on either not completing the game or even if the player completes it via any loopholes, it still remains useless as there is no reward.
 
 <img width="1262" alt="platformer" src="https://github.com/user-attachments/assets/cdd450ac-6c16-4e9e-8e9b-e0dcd86467c3">
-The player has to jump over the platforms, that floats above lava, to collect the egg, at the end. But, the second last platform is decoy, and will make the player fall into lava, which will give a hint that the platforms are useless and teh lava is safe. But still, at the end , the player will fall into lava-pit just before collecting the egg. Which makess the whole game pointless.
+The player has to jump over the platforms, that floats above lava, to collect the egg, at the end. But, the second last platform is decoy, and will make the player fall into lava, which will give a hint that the platforms are useless and the lava is safe. But still, at the end , the player will fall into lava-pit just before collecting the egg, which makess the whole game pointless.
 
 
 
@@ -48,7 +48,7 @@ The player has to catch the egg and burn it in the lava-pit. But the egg moves f
 
 
 <img width="1262" alt="Maze" src="https://github.com/user-attachments/assets/770d715d-e498-4e8c-a2d8-590d5c89e29e">
-The player will have to find a way to the centre to fetch the egg. But, after all the effort, the player will realise teh maze is a decoy and the egg is unfetchable. All the time used for finding a way to the egg is completely useless.
+The player will have to find a way to the centre to fetch the egg. But, after all the effort, the player will realise the maze is a decoy and the egg is unfetchable. All the time used for finding a way to the egg is completely useless.
 
 
 
