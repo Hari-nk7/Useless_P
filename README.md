@@ -13,29 +13,23 @@
 - Member 3: Hari Narayan - SSET
 
 ### Project Description
-[2-3 lines about what your project does]
-
+The game is basically something that provides anxiety for the people who want relaxation at their leisure time. In every aspect of the game there is an element of surprise and a fun yet dissapointing twist. 
 ### The Problem (that doesn't exist)
 The hectic lifestyle of an average human and the level of stress can never be compensated with. That can be turned into an endless pit of anxiety. A game of control where you have absolutely no control and where you come have a relaxed time after a long day, so that you eventually fall into the pit of anxiety and get disturbed at the peak level.
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
-
+The solution to the problem is not what we are providing but infact its the opposite that we're doing. We are providing stress and anxiety to a person who is already exhausted with or stressed with whatever they go through in their daily motion. 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
 - HTML, CSS, JS
-- [Frameworks used]
-- [Libraries used]
 - G develop
 
 ### Implementation
 For Software:
 # Installation
-[commands]
-
+There is no need for installations as this is a online web game.
 # Run
-[commands]
-
+We need Gdevelop application to run the program (the Link to the project has already been given in).
 ### Project Documentation
 For Software:
 
