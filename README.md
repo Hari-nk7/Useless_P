@@ -40,29 +40,36 @@ For Software:
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+<img width="1263" alt="menu_page" src="https://github.com/user-attachments/assets/a858354c-5dbc-493d-86d7-7c64938bec5e">
+This is the Menu Page consisting three games, where the player end up on either not completing the game or even if the player completes it via any loopholes, it will still  it remains useless as there is no reward.
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+<img width="1262" alt="platformer" src="https://github.com/user-attachments/assets/cdd450ac-6c16-4e9e-8e9b-e0dcd86467c3">
+The player has to jump over the platforms, that floats above lava, to collect the egg, at the end. But, the second last platform is decoy, and will make the player fall into lava, which will give a hint that the platforms are useless and teh lava is safe. But still, at the end , the player will fall into lava-pit just before collecting the egg. Which makess the whole game pointless.
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+
+
+<img width="1263" alt="Egg_catcher" src="https://github.com/user-attachments/assets/addfeb03-bb9c-40af-a43e-f49fc2148885">
+The player has to catch the egg and burn it in the lava-pit. But the egg moves farther as the player gets closer (which makes it impossible to catch the egg). The player may use tricky complex movements to push the egg into the lava, but at the end the lava is a decoy which makes the game impossible to complete.
+
+
+
+<img width="1262" alt="Maze" src="https://github.com/user-attachments/assets/770d715d-e498-4e8c-a2d8-590d5c89e29e">
+The player will have to find a way to the centre to fetch the egg. But, after all the effort, the player will realise teh maze is a decoy and the egg is unfetchable. All the time used for finding a way to the egg is completely useless.
+
+
 
 
 ### Project Demo
 # Video
-[Add your demo video link here]
-Video gives a brief scene of all the components of the project - MuttaRoast
+https://drive.google.com/drive/folders/1zWIA0U0mTlBPEw7idya9vJNFzPr7IB-n?usp=drive_link
 
-# Additional Demos
-[Add any extra demo materials/links]
+
 
 ## Team Contributions
+- CELESTIA - The whole game architecture
 - Adhul Krishna: Platformer
 - Sneha Sunil: Egg Catcher
 - Hari Narayan: Maze
-
 ---
 Made with ❤️ at TinkerHub Useless Projects 
 
