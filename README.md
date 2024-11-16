@@ -54,6 +54,8 @@ The player will have to find a way to the centre to fetch the egg. But, after al
 
 
 ### Project Demo
+#demo link
+https://gd.games/instant-builds/c5469cb8-235e-4c20-9eae-55fdd980b65d
 # Video
 https://drive.google.com/drive/folders/1zWIA0U0mTlBPEw7idya9vJNFzPr7IB-n?usp=drive_link
 
